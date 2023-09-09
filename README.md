@@ -1,6 +1,6 @@
 ## This code is a simple shape of pycaret library it  seek to provide a low-code machine learning and this project cosists of main aspects as followed ,it consists of two main classes and many of essential  functions.
 
-# --------------------------------------------------------------------
+# -------------------------------
 
 ## The first class is for Regression and contain some of important Regression algorithm methods , and these mathods are :
 
@@ -22,7 +22,7 @@
 ### 6- model_evaluation() :
 #### it works to evaluate models by scaling training feature and apllay simple regression and polynomial features on dataset and perform a graph to show best fit line of target features.
 
-# --------------------------------------------------------------------
+# -------------------------------
 
 ## The second class is for Classification and contain some of important Classification algorithm methods , and these mathods are :
 
@@ -50,7 +50,7 @@
 ### 8- hyper_parameter_tuning() :
 #### apply hayper parameter tuning show some important informations to user.
 
-# --------------------------------------------------------------------
+# -------------------------------
 
 ## The essential functions are :
 
