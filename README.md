@@ -1,4 +1,4 @@
-## This code is a simple shape of pycaret library it  seek to provide a low-code machine learning and this project cosists of main aspects as followed ,it consists of two main classes and many of essential  functions.
+## This code is a simple shape of pycaret library it  seeks to provide a low-code machine learning and it cosists of many main aspects as follows ,it consists of two main classes and many essential  functions.
 
 # -------------------------------
 
