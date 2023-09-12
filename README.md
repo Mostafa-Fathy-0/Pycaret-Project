@@ -39,10 +39,10 @@
 #### it applies descision tree algorithm on dataset and perform graph for this algorithm. 
 
 ### 5- random_forest() :
-#### it applies random forest on dataset and asks user to enter location of training feature and target feature to perform a graph for it.
+#### it applies random forest on dataset to get some important information and perform a graph for it.
 
 ### 6- boosting() :
-#### use xgboost and xgbclassifier to apply it on dataset and asks user to enter location of training feature and target feature to perform a graph for it.
+#### use xgboost and xgbclassifier to apply it on dataset to get some important information and perform a graph for it.
 
 ### 7- cross_validation() :
 #### apply cross validation algorithm on dataset and show some important statistics to user.
